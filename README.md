@@ -1,12 +1,27 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Security-first+full-stack+engineer;Cybersecurity+%26+Digital+Forensics+researcher;Founder+%26+Executive+Chairman%2C+StackWave+HQ)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=techvaness&color=9&style=flat)
+
+</div>
+
 # 💫 About Me
 
-🛡️ Founder & Executive Chairman of **StackWave HQ** — a security-first full-stack software firm based in Accra, Ghana<br>
+🛡️ Founder & Executive Chairman of **StackWave HQ**, a security-first full-stack software firm based in Accra, Ghana<br>
 🎓 MSc candidate in **Cybersecurity & Digital Forensics** at KNUST, researching drift-adaptive ML for Android malware detection and mobile money forensics<br>
-🌾 Building **Fallow** — farm management SaaS where *rest is productive*<br>
+🌾 Building **Fallow**, farm management SaaS where *rest is productive*<br>
 🏗️ Shipping production platforms across UK social housing (SwapSmart), legal tech (Lawnovus), and Ghana-first roadside recovery (Towva)<br>
 🔐 Security-minded engineer: tamper-evident audit logs, hash-chain custody, forensically defensible systems<br>
-📣 Active in Ghana's tech policy community — public advocacy on data protection and digital governance<br>
+📣 Active in Ghana's tech policy community, with public advocacy on data protection and digital governance<br>
 👨‍💻 Explore my work at [github.com/techvaness](https://github.com/techvaness)
+
+# 🔭 Currently
+
+🧪 Finishing my KNUST MSc thesis on drift-adaptive Android malware detection<br>
+🛠️ Building **FIXEX**, a service marketplace platform (NestJS, PostGIS, React Native)<br>
+🚀 Hardening **SwapSmart** for UK production launch<br>
+📜 Targeting a PhD in digital forensics for Fall 2027
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/claudeowusuberko)
@@ -47,9 +62,16 @@
 ![Turborepo](https://img.shields.io/badge/turborepo-%23EF4444.svg?style=for-the-badge&logo=turborepo&logoColor=white)
 
 # 📊 GitHub Stats
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=techvaness&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=techvaness&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=techvaness&theme=tokyonight&hide_border=false&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=techvaness&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
