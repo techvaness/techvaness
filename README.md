@@ -16,14 +16,6 @@
 📣 Active in Ghana's tech ecosystem, delivering client platforms and CSR initiatives through StackWave Technologies<br>
 👨‍💻 Explore my work at [github.com/techvaness](https://github.com/techvaness)
 
-# 🔭 Currently
-
-🧪 Finishing my KNUST MSc thesis on explainable malware detection from memory artefacts<br>
-🛠️ Building **FIXEX**, a service marketplace platform (NestJS, PostGIS, React Native)<br>
-🏫 Hardening **SchoolMGT** for real-world rollout (MFA, backups, timetables, live rolls)<br>
-🚀 Hardening **SwapSmart** for UK production launch<br>
-🌐 Building the **Ikovaness** SaaS company site (Next.js + Tailwind)<br>
-📜 Targeting a PhD in digital forensics
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/claudeowusuberko)
