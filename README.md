@@ -6,16 +6,6 @@
 
 </div>
 
-# 💫 About Me
-
-🛡️ Co-Founder of **StackWave Technologies**, a security-first full-stack software firm based in Accra, Ghana<br>
-🎓 MSc candidate in **Cybersecurity & Digital Forensics** at KNUST, researching a forensically defensible framework for explainable malware detection from memory artefacts<br>
-🏫 Building **SchoolMGT**, a multi-tenant school management platform (attendance, fees, payroll, admissions) live for schools in Ghana<br>
-🏗️ Shipping production platforms across UK social housing (**SwapSmart**), service marketplaces (**FIXEX**), and SaaS products (**Ikovaness**, where I'm also Co-Founder)<br>
-🔐 Security-minded engineer: tamper-evident audit logs, hash-chain custody, GDPR-safe pipelines, forensically defensible systems<br>
-📣 Active in Ghana's tech ecosystem, delivering client platforms and CSR initiatives through StackWave Technologies<br>
-👨‍💻 Explore my work at [github.com/techvaness](https://github.com/techvaness)
-
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/claudeowusuberko)
