@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Security-first+full-stack+engineer;Cybersecurity+%26+Digital+Forensics+researcher;Co-Founder%2C+StackWave+Technologies+%26+Ikovaness)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=techvaness&color=9&style=flat)
-
 </div>
 
 
